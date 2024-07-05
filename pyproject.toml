@@ -28,6 +28,7 @@ dependencies = [
     "tokenizers",
     "lm-format-enforcer >= 0.9.6",
     "aiofiles",
+    "setuptools",
 
     # TEMP: Remove once 2.x is fixed in upstream
     "numpy < 2.0.0",
